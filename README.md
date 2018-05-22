@@ -28,14 +28,14 @@ Also plugin use following outer parts
 Add to HEAD section CSS of Video.js and TopbarButtons plugin
 ```html
 <link href="/media/video-js-6.9.0/video-js.css" rel="stylesheet">
-<link href="/media/videojs.topbar-buttons.css" rel="stylesheet">
+<link href="/media/videojs.topbar.buttons.css" rel="stylesheet">
 ```
 
 Add to bottom of BODY section JS of Video.js and TopbarButtons plugin
 ```html
 <script src="/media/jquery-3.3.1.min.js"></script>
 <script src="/media/video-js-6.9.0/video.js"></script>
-<script src="/media/videojs.topbar-buttons.js" defer ></script>
+<script src="/media/videojs.topbar.buttons.js" defer ></script>
 <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
 <script src="/media/video-js-6.9.0/videojs-ie8.min.js"></script>
 ```
