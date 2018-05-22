@@ -7,6 +7,8 @@ ____
 
 Add topbar with custom buttons to your player area.
 ![Suggested Topbar Buttons Screenshot](Screenshot.png)
+![Share modal Screenshot](Screenshot2.png)
+![Feedback modal Screenshot](Screenshot3.png)
 
 Right now plugin contains following buttons:
 * "Toggle Light" Button - switch on and off darken blur for page behind the player.
