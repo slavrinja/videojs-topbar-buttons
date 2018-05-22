@@ -1,6 +1,6 @@
 # videojs-topbar-buttons
 
-Little plugin for [video.js][videojs] adding topbar with buttons to player area. Tested for Video.js 6.9.0.
+Little plugin for [video.js](https://github.com/videojs) adding topbar with buttons to player area. Tested for Video.js 6.9.0.
 ____
 
 ## Purpose
